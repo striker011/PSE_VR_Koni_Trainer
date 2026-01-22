@@ -6,6 +6,7 @@ Es ist zu finden unter (https://gitlab.com/darmstadt-university-of-applied-scien
 ### Meine Rolle:
 - SCRUM Master für unser Team
 - Koordinator mit Professoren
+- Entwickler
 
 ### Verantwortlich für Features
 - Statisikanzeige
